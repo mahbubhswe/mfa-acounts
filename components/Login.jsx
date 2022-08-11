@@ -136,7 +136,7 @@ export default function SignIn() {
                         ),
                       }}
                     />
-<p>Login as a admin: mail: mahbub@admin.com pass: admin12345</p>
+<p>mahbub@admin.com admin12345</p>
                     <Button
                       variant="outlined"
                       fullWidth
