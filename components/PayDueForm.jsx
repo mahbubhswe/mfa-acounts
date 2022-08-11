@@ -111,7 +111,7 @@ export default function PayDueForm() {
                 <TableRow>
                   <TableCell align="center">Name</TableCell>
                   <TableCell align="center">Sector</TableCell>
-                  <TableCell align="center">Amount</TableCell>
+                  <TableCell align="center">Due</TableCell>
                   <TableCell align="center">Status</TableCell>
                   <TableCell align="center">Date</TableCell>
                   <TableCell align="center">Action</TableCell>
