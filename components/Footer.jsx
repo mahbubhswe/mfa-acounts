@@ -10,7 +10,6 @@ export default function Footer() {
         sx={{
           paddingY: "20px",
           background: "#E3E6E3",
-          marginTop: "50px",
           borderTop: "1px solid #ccc",
         }}
       >
