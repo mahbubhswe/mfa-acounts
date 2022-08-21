@@ -33,7 +33,7 @@ export default function Home() {
   }
   return (
     <>
-      <Stack direction={"row"}>
+      <Stack direction={"row"} sx={{background: "#F7F9FA",paddingBottom:"50px"}}>
         <Box
           sx={{
             width: "220px",
